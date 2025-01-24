@@ -1,0 +1,8 @@
+body{background-color: darkseagreen;}
+h1,h2{color: red;}
+h1+p{color: black;}
+article{background-color: yellow;}
+h2+p{color: blueviolet;}
+#punkty{background-color:lightblue;}
+.pt{color:crimson;}
+
